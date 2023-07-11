@@ -25,4 +25,4 @@ According to our estimates of each ride's distance and to Direction 1 on our Dir
 
 ## How does the average trip duration change by the type of user?  
 
-According to our Trip Length sheet, member and casual users had about the same number of trips from lengths of 0.2 hours to lengths greater than 1 hour, but there were many more trips of a length less than 0.2 hour for members, so the average trip distance for members is much lower. 
+According to our Trip Length sheet, there were many more trips of a length less than 0.025 hour for members, so the average trip distance for members is much lower. 
