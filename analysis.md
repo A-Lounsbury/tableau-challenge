@@ -8,15 +8,16 @@ The peak hours when bikes are used during the month of May are 8 AM and 5-6 PM. 
 
 ## What is the average distance in miles for a bike trip?
 
-According to Distance 2 on our Distance Dashboard, most trips were less than or equal to 3 miles in distance, so the average distance for a bike trip was about 1.5 mi. 
+Taking Distance 2 on our Distance Dashboard into consideration, we estimate that the average distance for a bike trip at about 0.5 mile. 
 
 ## Are electric bikes more popular in the evening when people are tired and coming home from work?
-
-Electric bikes are about twice as popular at 5 PM as they are at 8 AM. 
+<!-- 8 AM: 0.12481 -->
+<!-- 5 PM: 0.15093 -->
+Ignoring docked bikes because there were so few rides using them, the ratio of electric bikes to classic bikes at 8 AM was 0.125. At 5 PM, this ratio is 0.151, so electric bikes were more popular at 5 PM. 
 
 ## Do people typically use Citibikes twice—once on a trip going in one direction and again on a trip going in the opposite direction? 
 
-The number of trips headed northwest and southeast were about the same, but Direction 2 in our Direction Dashboard tells us that there were more rides traveling southwest than rides traveling northeast. According to [this NYC Borough Populations site](https://www.citypopulation.de/en/usa/newyorkcity/), we may partially attribute this to the fact that Brooklyn has a greater population than Queens and that Manhattan has a greater population than the Bronx. 
+The number of trips headed northwest and southeast were about the same, but Direction 2 on our Direction Dashboard tells us that there were more rides traveling southwest than rides traveling northeast. According to [this NYC Borough Populations site](https://www.citypopulation.de/en/usa/newyorkcity/), we may partially attribute this to the fact that Brooklyn has a greater population than Queens and that Manhattan has a greater population than the Bronx. 
 
 ## Are there many outliers in terms of distance? 
 
@@ -24,4 +25,4 @@ According to our estimates of each ride's distance and to Direction 1 on our Dir
 
 ## How does the average trip duration change by the type of user?  
 
-According to our Trip Length sheet, member and casual users had about the same distribution of trip lengths, each having mostly trip lengths between 0.0 and 0.3 hours. 
+According to our Trip Length sheet, member and casual users had about the same number of trips from lengths of 0.2 hours to lengths greater than 1 hour, but there were many more trips of a length less than 0.2 hour for members, so the average trip distance for members is much lower. 
