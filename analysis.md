@@ -1,3 +1,4 @@
+# Analysis
 ## Which member type and which bike types are most popular? 
 
 According to the Types sheet and Direction 2 on our Direction Dashboard, most riders are members, classic bikes are the most popular type of bike, electric bikes are the second most popular, and docked bikes are the least popular. 
